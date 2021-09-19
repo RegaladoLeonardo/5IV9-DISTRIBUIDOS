@@ -1,5 +1,7 @@
 "use strict";
 
+
+
 const ruta = document.getElementById('ruta');
 const clase = document.getElementById('clase');
 const ejecurar = document.querySelector('#botones');
